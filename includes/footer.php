@@ -60,18 +60,18 @@
             <div class="footer-links-group">
                 <h4>Our Services</h4>
                 <ul class="clean-links">
-                    <li><a href="/AstroConnect/astrology/">Kundli & Astrology</a></li>
-                    <li><a href="/AstroConnect/puja/">Temple Puja Booking</a></li>
-                    <li><a href="/AstroConnect/matrimony/">Destiny Matrimony</a></li>
+                    <li><a href="astrology/">Kundli & Astrology</a></li>
+                    <li><a href="puja/">Temple Puja Booking</a></li>
+                    <li><a href="matrimony/">Destiny Matrimony</a></li>
                 </ul>
             </div>
 
             <div class="footer-links-group">
                 <h4>Company</h4>
                 <ul class="clean-links">
-                    <li><a href="/AstroConnect/about.php">About Us</a></li>
-                    <li><a href="/AstroConnect/contact.php">Contact Support</a></li>
-                    <li><a href="/AstroConnect/privacy.php">Privacy Policy</a></li>
+                    <li><a href="about.php">About Us</a></li>
+                    <li><a href="contact.php">Contact Support</a></li>
+                    <li><a href="privacy.php">Privacy Policy</a></li>
                 </ul>
             </div>
             
@@ -92,6 +92,6 @@
 <div class="auth-overlay" id="authModal">
     </div>
 
-<script src="/AstroConnect/assets/js/script.js"></script>
+<script src="assets/js/script.js"></script>
 </body>
 </html>

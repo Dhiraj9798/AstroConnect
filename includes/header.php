@@ -9,7 +9,7 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="/AstroConnect/assets/css/style.css">
+<link rel="stylesheet" href="assets/css/style.css">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 
@@ -22,13 +22,13 @@
 <div class="nav-container">
 
 <div class="logo">
-<a href="/AstroConnect/">AstroConnect</a>
+<a href="./">AstroConnect</a>
 </div>
 
 <ul class="nav-links" id="nav-menu">
 
-<li><a href="/AstroConnect/">Home</a></li>
-<li><a href="/AstroConnect/about.php">About</a></li>
+<li><a href="./">Home</a></li>
+<li><a href="about.php">About</a></li>
 
 <li class="dropdown">
 
@@ -36,15 +36,15 @@
 
 <div class="dropdown-content">
 
-<a href="/AstroConnect/astrology/">Astrology</a>
-<a href="/AstroConnect/puja/">Puja Booking</a>
-<a href="/AstroConnect/matrimony/">Matrimony</a>
+<a href="astrology/">Astrology</a>
+<a href="puja/">Puja Booking</a>
+<a href="matrimony/">Matrimony</a>
 
 </div>
 
 </li>
 
-<li><a href="/AstroConnect/contact.php">Contact</a></li>
+<li><a href="contact.php">Contact</a></li>
 
 </ul>
 
