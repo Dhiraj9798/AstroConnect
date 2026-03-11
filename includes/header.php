@@ -49,7 +49,7 @@
 </ul>
 
 <div class="auth-buttons">
-<a href="/AstroConnect/login.php" class="btn-primary">Get Started</a>
+    <a href="javascript:void(0)" class="btn-primary" id="getStartedBtn">Get Started</a>
 </div>
 
 <div id="mobile-btn" class="mobile-menu-btn">☰</div>
